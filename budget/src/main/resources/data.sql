@@ -1,0 +1,3 @@
+insert into applications values ('13107','WebPAS','Nallamolu, Udaya', 'Mohammad, Shaji', 'Austin, William', 'GFT', "GRCT Global', 'Production');
+insert into applications values ('153230','GMRA','Snehal', 'Mohammad, Shaji', 'Austin, William', 'GFT', "GRCT Global', 'Production');
+insert into applications values ('166944','Oversight','Siva', 'Mohammad, Shaji', 'Austin, William', 'GFT', "GRCT Global', 'Production');
